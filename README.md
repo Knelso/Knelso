@@ -35,7 +35,9 @@ Welcome to my GitHub profile! I'm A  **software engineer**, **student**, and the
 
 ## ✨ Let's Connect!  
 Feel free to reach out for collaboration, questions, or a friendly chat.  
-- [Add your LinkedIn, Twitter, or email here.]  
+- GMAIL nelsonnjihia2006@gmail.com
+- LINKEDIN   https://www.linkedin.com/in/nelson-njihia-439312277/
+-   
 
 ---
 

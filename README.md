@@ -34,11 +34,15 @@ Creative Tools : OBS Studio for video production.
 
 
 
+
 💡 Projects in Progress
+
 
 Developing a Crowdsourced Traffic and Road Safety App as the first product for Synapse.
 Producing content for a faceless YouTube channel to share unique and captivating stories.
 Creating engaging TikTok videos to teach Python programming in an approachable and exciting way.
+
+
 
 
 🎵 Fun Facts

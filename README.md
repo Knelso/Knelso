@@ -19,12 +19,17 @@ Investments: Delving into opportunities in stocks and agricultural innovations, 
 
 🛠️ Technologies I Use
 
-Languages: Python, HTML, CSS, JavaScript.
-Tools: Apache, MySQL, XAMPP, Ubuntu for Windows (WSL).
-Frameworks: Django for web development.
-Data Tools: pandas, NumPy, Jupyter.
-Machine Learning tools: TensorFlow $ Scikit-learn
-Creative Tools: OBS Studio for video production.
+Languages : Python, HTML, CSS, JavaScript.
+
+Tools : Apache, MySQL, XAMPP, Ubuntu for Windows (WSL).
+
+Frameworks : Django for web development.
+
+Data Tools : pandas, NumPy, Jupyter.
+
+Machine Learning tools : TensorFlow $ Scikit-learn
+
+Creative Tools : OBS Studio for video production.
 
 
 💡 Projects in Progress
@@ -45,5 +50,7 @@ Songs expressing deep emotion, such as prayers, resonate deeply with me.
 Feel free to reach out for collaboration, questions, or a friendly chat.
 
 📧 Email: nelsonnjihia2006@gmail.com
+
 🌐 LinkedIn: Nelson Njihia
+
 "Leadership, courage, resilience, honor, integrity, determination, and inspiration drive me every day."

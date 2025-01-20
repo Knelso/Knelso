@@ -32,6 +32,8 @@ Machine Learning tools : TensorFlow $ Scikit-learn
 Creative Tools : OBS Studio for video production.
 
 
+
+
 💡 Projects in Progress
 
 Developing a Crowdsourced Traffic and Road Safety App as the first product for Synapse.

@@ -1,44 +1,32 @@
-# Hi there! 👋 I'm Nelson Njihia  
+Hi there! 👋 I'm Nelson Njihia
+Welcome to my GitHub profile! I'm a software engineer, student, and the founder of Synapse, a company dedicated to delivering innovative, high-quality technological solutions. My journey is driven by a passion for technology, creativity, and a vision to empower Africa with transformative advancements.
 
-Welcome to my GitHub profile! I'm A  **software engineer**, **student**, and the founder of **Synapse**, a company committed to crafting luxurious, cutting-edge technological solutions. My journey is fueled by a passion for technology, creativity, and a vision to empower Africa with innovative solutions.  
---
-## 🚀 What I Do  
-- **Founder, Synapse**: Building software and IT services that combine **luxury** and **class** with high performance.  
-- **Software Engineer**: Currently working as a freelance transcriptionist and developer while honing my programming skills.  
-- **Visionary Entrepreneur**: Focused on expanding Synapse across Africa, starting from Nairobi, Kenya.  
+🚀 What I Do
+Founder, Synapse: Creating cutting-edge software and IT services that combine elegance with high performance.
+Software Engineer: Currently working at Jendie Automobiles while enhancing my expertise in programming and software development.
+Visionary Entrepreneur: Committed to expanding Synapse across Africa, starting from Nairobi, Kenya.
+📖 What I'm Working On
+Web Development: Building robust applications using Django and integrating AJAX for responsive user experiences.
+Data Analysis & Machine Learning: Exploring AI-powered solutions to deliver intelligent and data-driven systems.
+Creative Video Production: Leveraging OBS Studio to produce professional and engaging video content.
+Investments: Delving into opportunities in stocks and agricultural innovations, such as the Wambugu apple.
+🛠️ Technologies I Use
+Languages: Python, HTML, CSS, JavaScript.
+Tools: Apache, MySQL, XAMPP, Ubuntu for Windows (WSL).
+Frameworks: Django for web development.
+Data Tools: pandas, NumPy, Jupyter.
+Machine Learning tools: TensorFlow $ Scikit-learn
+Creative Tools: OBS Studio for video production.
+💡 Projects in Progress
+Developing a Crowdsourced Traffic and Road Safety App as the first product for Synapse.
+Producing content for a faceless YouTube channel to share unique and captivating stories.
+Creating engaging TikTok videos to teach Python programming in an approachable and exciting way.
+🎵 Fun Facts
+I love acoustic and pop songs that inspire and uplift.
+Songs expressing deep emotion, such as prayers, resonate deeply with me.
+✨ Let's Connect!
+Feel free to reach out for collaboration, questions, or a friendly chat.
 
----
-## 🌱 Currently Learning  
-- **AJAX** for dynamic web applications.  
-- **OBS Studio** for creative video production.  
-- Exploring investments, with a keen interest in **stocks** and **agricultural products**, such as the Wambugu apple.  
-
----
-## 🛠️ Technologies I Use  
-- **Languages**: [Add programming languages you use]  
-- **Tools**: Apache, MySQL, XAMPP, Ubuntu for Windows (WSL).  
-- [Include any other tools or technologies you're familiar with.]  
-
----
-
-## 💡 Projects in Progress  
-- Developing a **Crowdsourced Traffic and Road Safety App** as the first product for Synapse.  
-- Working on content for a **faceless YouTube channel** to share unique and interesting stories.  
-
----
-
-## 🎵 Fun Facts  
-- I love **acoustic** and **pop** songs that inspire and uplift.  
-- Songs expressing deep emotion, such as prayers, resonate deeply with me.  
-
----
-
-## ✨ Let's Connect!  
-Feel free to reach out for collaboration, questions, or a friendly chat.  
-- GMAIL nelsonnjihia2006@gmail.com
-- LINKEDIN   https://www.linkedin.com/in/nelson-njihia-439312277/
--   
-
----
-
-"Leadership, courage, resilience, honor, integrity, determination, and inspiration drive me every day."  
+📧 Email: nelsonnjihia2006@gmail.com
+🌐 LinkedIn: Nelson Njihia
+"Leadership, courage, resilience, honor, integrity, determination, and inspiration drive me every day."

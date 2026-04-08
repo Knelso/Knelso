@@ -1,62 +1,63 @@
-Hi there! 👋 I'm Nelson Njihia
+# Nelson Njihia
 
-Welcome to my GitHub profile! I'm a software engineer, student, and the founder of Synapse, a company dedicated to delivering innovative, high-quality technological solutions. My journey is driven by a passion for technology, creativity, and a vision to empower Africa with transformative advancements.
+**Software Engineer · Founder, Synapse Softwares · Nairobi, Kenya**
 
-🚀 What I Do
+---
 
-Founder, Synapse: Creating cutting-edge software and IT services that combine elegance with high performance.
-Software Engineer: Currently working at Jendie Automobiles while enhancing my expertise in programming and software development.
-Visionary Entrepreneur: Committed to expanding Synapse across Africa, starting from Nairobi, Kenya.
+I build software that works — for real businesses, real users, and real problems across East Africa.
 
+By day I work as a software engineer at Jendie Automobiles Limited, designing and maintaining the fleet management and inventory systems the business depends on. Outside of that, I run Synapse Softwares, where I take on client projects, build open-source developer tooling, and work toward a longer-term infrastructure play for the African tech ecosystem.
 
-📖 What I'm Working On
+My work sits at the intersection of product thinking and engineering execution. I do not just write code — I architect systems, own the full product lifecycle, and ship things that hold up under real use.
 
-Web Development: Building robust applications using Django and integrating AJAX for responsive user experiences.
-Data Analysis & Machine Learning: Exploring AI-powered solutions to deliver intelligent and data-driven systems.
-Creative Video Production: Leveraging OBS Studio to produce professional and engaging video content.
-Investments: Delving into opportunities in stocks and agricultural innovations, such as the Wambugu apple.
+---
 
+## What I Build With
 
-🛠️ Technologies I Use
+**Frontend** — Next.js · React · TypeScript · Tailwind CSS · Framer Motion
 
-Languages : Python, HTML, CSS, JavaScript.
+**Backend** — Supabase · Node.js · PostgreSQL · REST APIs
 
-Tools : Apache, MySQL, XAMPP, Ubuntu for Windows (WSL).
+**Mobile** — React Native · Expo · NativeWind
 
-Frameworks : Django for web development.
+**Integrations** — M-Pesa Daraja · iTrack GPS · Protrack APIs · Advanta SMS
 
-Data Tools : pandas, NumPy, Jupyter.
+**Other** — Python · TurboRepo · Vercel · Railway
 
-Machine Learning tools : TensorFlow $ Scikit-learn
+---
 
-Creative Tools : OBS Studio for video production.
+## Selected Work
 
+**[Protracks System](https://jendieprotracks.co.ke)** — Fleet operations and inventory management platform for Jendie Protrack Limited. Real-time GPS tracking via iTrack and Protrack APIs, SMS client notifications, and a Supabase PostgreSQL backend.
 
+**TrackMyKid** — School transport tracking app for Nairobi parents and transport assistants. Live GPS, boarding manifests, session-based timing, and role-based auth. Built in React Native with an Expo and Railway stack.
 
+**Rahisi-Biz** — Business management platform for SMEs across East Africa. Invoicing, inventory, sales tracking, and M-Pesa payment collection in one system.
 
+**[UmojaSDK](https://github.com/Knelso)** — Open-core TypeScript and Python SDK for African mobile money. M-Pesa Daraja and Airtel Money support. TurboRepo monorepo structure with an open core and SaaS cloud layer.
 
-💡 Projects in Progress
+**[NelsonLabs](https://nelsonlabs.vercel.app)** — Free developer education platform for African engineers. Structured learning paths, no paywalls, no gatekeeping.
 
+---
 
-Developing a Crowdsourced Traffic and Road Safety App as the first product for Synapse.
-Producing content for a faceless YouTube channel to share unique and captivating stories.
-Creating engaging TikTok videos to teach Python programming in an approachable and exciting way.
+## Currently
 
+- Building out [Synapse Softwares](https://nelsonnjihia-portfolio.vercel.app) — software and infrastructure for the African market
+- Developing UmojaSDK as the payment integration layer African startups should not have to rebuild from scratch
+- Mentoring young people who want to break into the software industry
 
+---
 
+## Connect
 
-🎵 Fun Facts
+**Portfolio** → [nelsonnjihia-portfolio.vercel.app](https://nelsonnjihia-portfolio.vercel.app)
 
-I love acoustic and pop songs that inspire and uplift.
-Songs expressing deep emotion, such as prayers, resonate deeply with me.
+**LinkedIn** → [Nelson Njihia](https://www.linkedin.com/in/nelson-njihia-439312277)
 
+**TikTok** → [@the_njihia_vault](https://www.tiktok.com/@the_njihia_vault)
 
-✨ Let's Connect!
+**Email** → synapsesoftwares@gmail.com
 
-Feel free to reach out for collaboration, questions, or a friendly chat.
+---
 
-📧 Email: nelsonnjihia2006@gmail.com
-
-🌐 LinkedIn: Nelson Njihia
-
-"Leadership, courage, resilience, honor, integrity, determination, and inspiration drive me every day."
+*Intelligence Engineered. Elegance Delivered.*
